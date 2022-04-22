@@ -1,0 +1,8 @@
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\obj\Debug\zadanie4.csproj.AssemblyReference.cache
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\obj\Debug\zadanie4.csproj.SuggestedBindingRedirects.cache
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\obj\Debug\zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\DZOT\source\repos\homework1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
